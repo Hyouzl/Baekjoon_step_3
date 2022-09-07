@@ -29,8 +29,7 @@ public class Baekjoon10952 {
 				bw.write(x + y + "\n");
 			}
 		}
-		
-		br.close();
+	
 		bw.close();
 	}
 
